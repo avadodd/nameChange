@@ -1,8 +1,12 @@
 # nameChange
 run main.py
+
 hit load button
+
 select directory
+
 once in desired directory, hit load
+
 go on command window, enters loop to rename files
 
 #####################
